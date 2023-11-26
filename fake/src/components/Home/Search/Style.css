@@ -1,0 +1,20 @@
+.search-input{
+    margin-left: 1.5rem;
+    /* margin-top: 5rem; */
+    margin-bottom: 0rem;
+    width: 54rem;
+ }
+ 
+ .search{
+    margin-left: 1.5rem;
+    margin-right: 0.75rem;
+    font-weight: bold;
+    color: rgb(74, 74, 207);
+ }
+ 
+ .form-control{
+    width: 74% !important;
+ }
+ 
+ 
+ 
